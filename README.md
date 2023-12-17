@@ -1,4 +1,4 @@
-# Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
+<!-- # Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
 ![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
 
 ### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
@@ -18,4 +18,4 @@ Alongside building this application, you'll also learn how to:
 
 ## Want to land your dream programming job in 3 - 6 months?
 ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Become a Software Engineer. Guaranteed. -->
