@@ -45,6 +45,8 @@ export default async function Home({ searchParams }: HomeProps) {
               pageNumber={(searchParams.limit || 10) / 10}
               isNext={(searchParams.limit || 10) > allCars.length}
             />
+
+            <h4>car image isn't available because api is pais</h4>
           </section>
         ) : (
           <div className='home__error-container'>
