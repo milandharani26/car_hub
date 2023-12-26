@@ -46,7 +46,6 @@ export default async function Home({ searchParams }: HomeProps) {
               isNext={(searchParams.limit || 10) > allCars.length}
             />
 
-            <h4>car image isn't available because api is pais</h4>
           </section>
         ) : (
           <div className='home__error-container'>
